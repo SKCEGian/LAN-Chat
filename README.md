@@ -22,7 +22,7 @@ https://skcegian.github.io/LAN-Chat/
 ### Screenshots
 
 #### Text Chat
-![Text Chat](https://raw.githubusercontent.com/SKCEGian/video-chat-app/master/text-chat.jpeg)
+![Text Chat](https://raw.githubusercontent.com/SKCEGian/LAN-Chat/master/txt-img.jpeg.png)
 
 #### Voice Call
-![Voice Call](https://raw.githubusercontent.com/SKCEGian/video-chat-app/master/voice-call.jpeg)
+![Voice Call](https://raw.githubusercontent.com/SKCEGian/LAN-Chat/master/voice-call.jpeg)
